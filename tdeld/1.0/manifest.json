@@ -1,0 +1,19 @@
+{
+  "manifest_version":"1",
+  "type":"Skin",
+  "meta":{
+    "name":"The Dragons Eld",
+    "version":"1.0",
+    "minimum-overwolf-version": "0.84.0.1",
+    "author":"Tiamarth",
+    "description":"Custom overwolf skin for The Guild of Dragons Eld.",
+    "icon": "icon.png"
+    },
+    "data": {
+      "components":[
+        "Dock"
+      ],
+      "games":[
+      ]
+    }
+  }
